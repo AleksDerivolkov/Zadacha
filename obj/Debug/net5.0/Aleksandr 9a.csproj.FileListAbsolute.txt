@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\bin\Debug\net5.0\Aleksandr 9a.exe
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\bin\Debug\net5.0\Aleksandr 9a.deps.json
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\bin\Debug\net5.0\Aleksandr 9a.runtimeconfig.json
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\bin\Debug\net5.0\Aleksandr 9a.runtimeconfig.dev.json
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\bin\Debug\net5.0\Aleksandr 9a.dll
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\bin\Debug\net5.0\Aleksandr 9a.pdb
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.dll
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\refint\Aleksandr 9a.dll
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.pdb
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\Aleksandr 9a.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\Sasho 9a\Aleksandr 9a\Aleksandr 9a\obj\Debug\net5.0\ref\Aleksandr 9a.dll
